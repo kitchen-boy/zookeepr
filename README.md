@@ -6,14 +6,15 @@ A web server for a front-end application by the local zoo called Zoo Keepr
 * [User Story](#user-story)
 * [Acceptance Criteria](#acceptance-criteria)
 * [Installation](#installation-setup)
-* [Tools Used] (#tools-used)
+* [Tools Used](#tools-used)
 * [Screenshots and Video Link of application](#screenshots-and-video)
 * [Links](#links)
 * [Credits](#credits)
 
 # DESCRIPTION:
-Created a web server using the Express.js framework. This web server was for a front-end application called Zoo Keepr and the application was deployed to Heroku, a cloud application platform that allows you to deploy applications with servers to a webpage.
-This site's data will be stored on this web server, which will allow animal enthusiasts to access the data from different locations and browsers without needing to download it to their device.
+* Created a web server using the Express.js framework, i.e. back end application: to handle data management requests from the existing front-end application already created.  
+* This web server was for a front-end application called Zoo Keepr and the application was deployed to Heroku, a cloud application platform that allows you to deploy applications with servers to a webpage.
+* This site's data will be stored on this web server, which will allow animal enthusiasts to access the data from different locations and browsers without needing to download it to their device.
 
 # TASK COMPLETED: 
 After completing this module (11: Express.js), we learned how to:
@@ -57,9 +58,7 @@ node index.js
 * [Express.js](https://www.npmjs.com/package/express) is a minimal and flexible Node.js web application framework that provides a robust set of features for web and mobile applications. It is considered the de facto standard server framework for Node.js.
 
 Insomnia (https://insomnia.rest/) is a powerful REST API client that allows us to test APIs and make client-side server requests without having to use a browser. 
-$$ Used Insomnia tp test API, NOT insomnia Desiter. 
-
-
+* Used Insomnia to test API, NOT insomnia Desiter. 
 
 # SCREENSHOTS AND VIDEO
 [Walkthrough Video]()
